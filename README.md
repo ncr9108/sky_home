@@ -1,4 +1,4 @@
-# sky_home
+# Sky Home
 
 A Flutter widget package for rendering dynamic home pages powered by the **SkyHome Shopify app**.
 

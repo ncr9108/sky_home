@@ -1,3 +1,9 @@
+## 0.1.1
+
+* Fix README heading display name.
+* Fix unused variable warning in promo_banner.dart.
+* Fix unused import warning in sky_home_widget.dart.
+
 ## 0.1.0
 
 * Initial release.
