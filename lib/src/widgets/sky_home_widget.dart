@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/home_config.dart';
 import '../models/home_section.dart';
 import '../services/sky_home_service.dart'
-    show SkyHomeService, SkyHomeException, kSkyHomeApiBaseUrl;
+    show SkyHomeService, kSkyHomeApiBaseUrl;
 import 'sections/hero_banner.dart';
 import 'sections/image_slider.dart';
 import 'sections/video_slider.dart';

@@ -4,9 +4,9 @@ description: >-
   the SkyHome page-builder app. Drop in one widget — sections update live from
   the Shopify Admin with no app release needed.
 version: 0.1.0
-homepage: https://github.com/skygoalsolutions/sky_home
-repository: https://github.com/skygoalsolutions/sky_home
-issue_tracker: https://github.com/skygoalsolutions/sky_home/issues
+homepage: https://github.com/ncr9108/sky_home
+repository: https://github.com/ncr9108/sky_home
+issue_tracker: https://github.com/ncr9108/sky_home/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

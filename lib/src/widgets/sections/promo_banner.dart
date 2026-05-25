@@ -15,7 +15,6 @@ class PromoBannerSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final bg = hexColor(section.bgColor);
-    final fg = hexColor(section.textColor, fallback: Colors.white);
 
     return GestureDetector(
       onTap: () => openLink(section.buttonLink, onLinkTap),
